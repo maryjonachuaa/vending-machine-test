@@ -37,8 +37,6 @@ const onSubmit = () => {
   }
 };
 
-// Logging initial value of noChange
-console.log(noChange.value);
 </script>
 
 <template>
