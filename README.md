@@ -8,5 +8,5 @@ npm run dev
 
 # Netlify Link
 ```
-https://vending-machinee-test.netlify.app
+[https://vending-machinee-test.netlify.app](https://vending-machinee-test.netlify.app/)
 ```
